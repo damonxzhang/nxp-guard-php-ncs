@@ -1,0 +1,13 @@
+.idea/
+.github/
+_book/
+demos/
+docs/
+layui/
+layui_exts/
+node_modules/
+book.json
+index.js
+*.png
+*.html
+*.gif
